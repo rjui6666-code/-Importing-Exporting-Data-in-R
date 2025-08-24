@@ -59,3 +59,4 @@ Text → read.table() / write.table()
 
 getwd()   # see current folder
 setwd("C:/path/to/folder")  # set folder
+
